@@ -13,3 +13,5 @@ D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\refint\HeroTechTest.d
 D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.pdb
 D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.genruntimeconfig.cache
 D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\ref\HeroTechTest.dll
+D:\_projects\C#\HeroTechTest\HeroTechTest\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.csproj.CopyComplete
