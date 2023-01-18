@@ -27,7 +27,7 @@ public static class Program
             _path = Console.ReadLine();
             Console.WriteLine(string.IsNullOrEmpty(_path) ? "You did not enter a path. Please try again." : $"Chosen path: {_path}");
         }
-        // Should do a check for valid path. More error checking
+        // TODO: Should do a check for valid path. More error checking
     }
 
     private static string[] ReadCsv() => File.ReadAllLines(_path!);
