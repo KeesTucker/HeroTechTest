@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyAfz0msAyEAhV+E2YHuD/Vu6ONyaLmmSzdgmUZeiY9HBnebpuJtM3Vf3AHtBLJk/ipD61qiCrb/nBUAmTM3ww==",
+  "success": true,
+  "projectFilePath": "D:\\_projects\\C#\\HeroTechTest\\HeroTechTest\\HeroTechTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keesw\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

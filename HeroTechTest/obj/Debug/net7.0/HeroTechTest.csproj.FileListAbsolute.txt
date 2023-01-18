@@ -1,0 +1,15 @@
+D:\_projects\C#\HeroTechTest\HeroTechTest\bin\Debug\net7.0\HeroTechTest.exe
+D:\_projects\C#\HeroTechTest\HeroTechTest\bin\Debug\net7.0\HeroTechTest.deps.json
+D:\_projects\C#\HeroTechTest\HeroTechTest\bin\Debug\net7.0\HeroTechTest.runtimeconfig.json
+D:\_projects\C#\HeroTechTest\HeroTechTest\bin\Debug\net7.0\HeroTechTest.dll
+D:\_projects\C#\HeroTechTest\HeroTechTest\bin\Debug\net7.0\HeroTechTest.pdb
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.csproj.AssemblyReference.cache
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.AssemblyInfoInputs.cache
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.AssemblyInfo.cs
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.csproj.CoreCompileInputs.cache
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.dll
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\refint\HeroTechTest.dll
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.pdb
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\HeroTechTest.genruntimeconfig.cache
+D:\_projects\C#\HeroTechTest\HeroTechTest\obj\Debug\net7.0\ref\HeroTechTest.dll
